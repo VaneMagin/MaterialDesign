@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="snow">Soy un copo de nieve</string>
+    <string name="card_btn_2">Limpiar</string>
+    <string name="card_textview1">"Título de la tarjeta "</string>
+    <string name="card_textview_1">Título de la tarjeta</string>
+    <string name="card_input_url">URL imagen</string>
+    <string name="card_requiered">Campo requerido</string>
+    <string name="card_password">Contraseña</string>
+    <string name="card_enable_password">Habilitar contraseña</string>
+    <string name="card_division">Subtitulo</string>
+    <string name="card_toggle_red">ROJO</string>
+    <string name="card_toggle_blue">AZUL</string>
+    <string name="card_toggle_green">VERDE</string>
+    <string name="skip">Saltar</string>
+    <string name="message_action_success">Todo bien</string>
+    <string name="card_accionar">Acción</string>
+    <string name="card_vamos">Vamos</string>
+    <string name="card_lista">Listo</string>
+</resources>
